@@ -1,0 +1,3 @@
+[submodule "MockXamarinForm"]
+	path = MockXamarinForm
+	url = https://github.com/Calebyang93/MockXamarinForms.git
